@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhontotomato
+- 👋 Hi, I’m Jhonny!
 - 👀 I’m interested in Webscraping
 - 🌱 I’m currently learning python
 - 📫 How to reach me familiaalexander9@gmail.com
